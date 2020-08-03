@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Film Yorum Uygulaması</string>
+    <string name="film_yorum_uygulamas">Film Yorum Uygulaması</string>
+    <string name="film_giriniz">Film Giriniz...</string>
+    <string name="tamam">Tamam</string>
+    <string name="tamamm">Tamam</string>
+    <string name="Film_gir">Tamam</string>
+    <string name="yorumunuz">Yorumunuz...</string>
+    <string name="g_nder">OK</string>
+    <string name="filmler">Filmler</string>
+</resources>
